@@ -10,3 +10,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Achmad Fauzi Firdaus, [LinkedIn](https://www.linkedin.com/in/achmad-fauzi-firdaus-451767b1/).
+* Fauzi Firdaus, [Github] (https://github.com/fauzifirdaus21).
